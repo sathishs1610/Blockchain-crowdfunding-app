@@ -30,6 +30,13 @@ The funding goal and deadline are set when the contract is deployed.
 
 ## Testing
 Verified with 10 manual test cases in Remix and on Sepolia (contribution, withdrawal, refund and access control).
+## Screenshot
+![Frontend screenshot](frontend-screenshot.jpg)
+
+## Deployment
+- Network: Ethereum Sepolia testnet
+- Contract address: `0xd666Bdde09531fc8BfC3e7997a1294788c12B91f`
+- Etherscan: https://sepolia.etherscan.io/address/0xd666Bdde09531fc8BfC3e7997a1294788c12B91f
 
 ## Known Limitations
 - One campaign per contract (multi-campaign support is future scope)
